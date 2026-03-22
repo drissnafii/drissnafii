@@ -21,7 +21,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,c" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=next,react,vue,tailwind" />
+<img src="https://skillicons.dev/icons?i=next,nuxt,react,vue,tailwind" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=bun,nodejs,express,laravel,nest,graphql" />
@@ -30,7 +30,13 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,prisma" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,docker,git,docker,github,figma,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+  <img src="images/ubuntu-badge.svg" alt="Ubuntu" height="48" />
+  <img src="images/popos-badge.svg" alt="Pop!_OS" height="48" />
+  <img src="images/fedora-badge.svg" alt="Fedora" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,postman" />
+</p>
 
 </div>
 

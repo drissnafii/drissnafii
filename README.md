@@ -1,13 +1,13 @@
 <img src="headers/github-header-image.png" alt="Description">
 
 Passionate full-stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
-<h3 align="center"><strong>⚠️ Most unique and ambitious projects are private | <a href="https://drissnafii.me">drissnafii.me</a> ⚠️</strong></h3>
+<h3 align="center"><strong>⚠️ Most unique and ambitious projects are private ⚠️</strong></h3>
 <p align="center">
   <a href="https://linkedin.com/in/drissnafii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://drissnafii.me">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+    <img src="images/portfolio-badge.svg" alt="Portfolio"/>
   </a>
   <a href="mailto:drissnafi3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>

@@ -1,6 +1,6 @@
 <img src="headers/github-header-image.png" alt="Description">
 
-Passionate full-stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
+Full-Stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
 <h3 align="center"><strong>⚠️ Most unique and ambitious projects are private ⚠️</strong></h3>
 <p align="center">
   <a href="https://linkedin.com/in/drissnafii">

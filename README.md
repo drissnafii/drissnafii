@@ -6,7 +6,7 @@ Full-Stack developer with expertise in modern web technologies and a strong foun
   <a href="https://linkedin.com/in/drissnafii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://drissnafii.me">
+  <a href="https://drissnafii.versel.app">
     <img src="images/portfolio-badge.svg" alt="Portfolio"/>
   </a>
   <a href="mailto:drissnafi3@gmail.com">
